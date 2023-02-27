@@ -1,30 +1,5 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -46,108 +21,144 @@ After you're finished please remove all the comments and instructions!
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Portfolionew <a name="about-project"></a>
+# 📖 My Awesome Book <a name="about-project"></a>
 
-
-**Portfolionew** is a webspace intended to keep track of all my projects, detailing the tech stacks that I used as well as a metric to measure my progress as a developer.
+> **My Awesome Book** is a website that allows a user to add their favourite book and display them in a table. It also allows user to remove the desired book.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
+> This project is built using <br> HTML, <br> CSS and <br> JavaScript.
 
 <details>
-  <summary>Client</summary>
+  <summary>HTML</summary>
   <ul>
-    <li><a href="https://html.com/">HTML and CSS</a></li>
-    <li><a href="https://js.com/">js es6 modules</a></li>
-    <li><a href="https://luxon.com/">luxon</a></li>
+    <li><a href="https://html.com/#What_is_HTML">index.html</a></li>
   </ul>
 </details>
 
+<details>
+  <summary>CSS</summary>
+  <ul>
+    <li><a href="https://html.com/css/#What_is_CSS">index.css</a></li>
+  </ul>
+</details>
 
+<details>
+  <summary>Javascript</summary>
+  <ul>
+    <li><a href="https://www.javascripttutorial.net/javascript-dom/document-object-model-in-javascript/">index.js</a></li>
+  </ul>
+</details>
+<br>
 <!-- Features -->
+
 ### Key Features <a name="key-features"></a>
 
-- **It uses a nice background color**
-- **The design is quite aesthetic**
-- **It leverages semantic Html 5**
-- **It leverages ES6 moduler approach**
-- **there is room for to add new features**
+> - **No linter errors** <br>
+> - **Use of correct GitHub flow**
+> - **Follow best practices for HTML, CSS and Javascript**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LIVE DEMO -->
 
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> - [Live Demo Link](https://codewithhyder.github.io/awesomebook-module1/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-
-To get a local copy up and running, follow these steps.
+> To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
-
- to open the project in web Browser with live server or simply use any web browser
+> In order to run this project you need:
+> - **Visual Studio Code**
+> - **Git Bash**
 
 ### Setup
 
-Clone this repository to your desired folder:
+> Clone this repository to your desired folder:<br>
+> - <code>cd your-folder</code><br>
+> - <code>git clone https://github.com/codeWithHyder/awesomebook-module1</code>
 
-- [🚀 Live Demo]( https://codewithhyder.github.io/awesomebook-es6-module/)
+### Install
 
+> Installation dependency for linters check
 
+### Usage
+
+> Run the project on Visual Studio Code Live Server.
+
+### Run tests
+
+> Not Available for this project.
 
 ### Deployment
 
-You can deploy this project using:
-
-
-github
+> You can deploy this project using:
+> - GitHub Pages
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
-## 👥 Author <a name="authors"></a>
+## 👥 Authors <a name="authors"></a>
 
-
-👤 Hyder
-
-- GitHub: [@CodeWithHyder](https://github.com/codeWithHyder)
-- Twitter: [@hyder](https://twitter.com/@hyder3512)
-- LinkedIn: [Hyder](https://linkedin.com/in/https://www.linkedin.com/in/ghulam-hyder-dar-165653206?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bb%2FezSQOCSmG9eV79rGAzQQ%3D%3D)
-
-
+> 👤 **Anita Sharma**
+> - GitHub: [@CodeWithHyder](https://github.com/codeWithHyder)
+> - Twitter: [@hyder](https://twitter.com/@hyder3512)
+> - LinkedIn: [Hyder](https://linkedin.com/in/https://www.linkedin.com/in/ghulam-hyder-dar)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- FUTURE FEATURES -->
 
+## 🔭 Future Features <a name="future-features"></a>
 
+> Build a history page to display all added books.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+> Contributions, issues, and feature requests are welcome! <br>
+> Feel free to check the [issues page](https://github.com/codeWithHyder/awesomebook-module1/issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+> If you like this project feel comfortable to endorse the authors. Give a star in github repository.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank coding partners, mentors and Microverse who helped and made me understand how to make this project work.
+> We would like to thank my coding partners, mentors and Microverse for their support in building the project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+> This project is [MIT](MIT.md) licensed.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
