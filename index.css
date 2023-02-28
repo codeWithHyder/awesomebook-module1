@@ -43,7 +43,7 @@
 .menuitems li {
   margin-left: 3rem;
   font-size: 1.2rem;
-  border-right: 1px solid rgb(12, 12, 12);
+  border-right: 1px solid rgb(48, 47, 47);
   padding-right: 1rem;
 }
 
@@ -55,7 +55,7 @@
 }
 
 .menuitems li a:hover {
-  color: black;
+  color: rgb(26, 25, 25);
   transition: ease-in-out 0.5s;
 }
 
@@ -64,7 +64,7 @@
   flex-direction: column;
   justify-content: flex-end;
   margin: 1rem;
-  background-color: beige;
+  background-color: rgb(197, 203, 226);
   width: 18%;
   padding: 0.5rem;
   border-radius: 0.5rem;
@@ -76,7 +76,7 @@
   flex-direction: column;
   width: 50%;
   height: auto;
-  background-color: #815ed1;
+  background-color: #826dad;
   margin-left: auto;
   margin-right: auto;
   margin-top: 7rem;
@@ -157,6 +157,7 @@
   width: 100%;
   height: 3rem;
   margin-bottom: 1rem;
+  margin-left: 0;
 }
 
 .booklist .bookremove .bookdesc {
@@ -196,7 +197,7 @@
 .footer {
   display: flex;
   justify-content: center;
-  border-top: 0.1rem solid #c6c1d3;
+  border-top: 0.1rem solid #9684c4;
   color: whitesmoke;
   width: 80%;
   height: 4rem;
